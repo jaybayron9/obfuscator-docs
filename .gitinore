@@ -1,0 +1,7 @@
+/js-obfuscator/obfuscator/node_modules
+/js-obfuscator/obfuscator/src/*
+/js-obfuscator/obfuscator/output/*
+
+/php-obfuscator/obfuscator/env
+/php-obfuscator/obfuscator/src/*
+/php-obfuscator/obfuscator/output/*
