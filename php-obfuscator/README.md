@@ -39,4 +39,4 @@ to activate:
 go to the src folder inside the obfuscator/src and put the project there
 
 and run the following in the terminal:
-`php /Users/jaybayron/Herd/Github/obfuscator-docs/php-obfuscator/obfuscator/yakpro-po/yakpro-po.php -o /Users/jaybayron/Herd/Github/obfuscator-docs/php-obfuscator/obfuscator/output/ /Users/jaybayron/Herd/Github/obfuscator-docs/php-obfuscator/obfuscator/src/`
+`php -d memory_limit=512M /Users/cal4careit-ph/Herd/php-obfuscator/yakpro-po/yakpro-po.php -o /Users/cal4careit-ph/Herd/php-obfuscator/src/ /Users/cal4careit-ph/Herd/ringq_phalcon/`
